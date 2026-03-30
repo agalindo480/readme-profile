@@ -22,22 +22,24 @@ UI/UX Design, Wireframing, Photography, Videography, Adobe Suite (Photoshop, Lig
 
 ---
 
-## Projects
+## 📂 Projects & Case Studies
 
-### 1. Lucero Website & Content Creation
-Mock website design and real photo/video content created for Lucero at Omni.
+### 1. Lucero Website & Content Creation  
+Mock website design and real photo/video content created for Lucero at Omni.  
+🔗 [View Project](https://agalindo480.github.io/Lucero-git480-final/)
 
-Link: https://agalindo480.github.io/Lucero-git480-final/
+---
 
-### 2. Xbox Promotional Bumper
-Animated Xbox Game Pass bumper created using After Effects.
+### 2. Xbox Promotional Bumper  
+Animated Xbox Game Pass bumper created using After Effects.  
 
-Link: https://youtu.be/vbsWCVyn5_w
+[![Watch Video](https://img.youtube.com/vi/vbsWCVyn5_w/0.jpg)](https://youtu.be/vbsWCVyn5_w)
 
-### 3. Personal Portfolio Website
-Fully coded portfolio website built from scratch to showcase projects and case studies.
+---
 
-Link: https://agalindo480.github.io/Andres-Galindo/
+### 3. Personal Portfolio Website  
+Fully coded portfolio website built from scratch to showcase projects and case studies.  
+🔗 [View Portfolio](https://agalindo480.github.io/Andres-Galindo/)
 
 ---
 
