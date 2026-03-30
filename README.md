@@ -51,7 +51,7 @@ Adobe Photoshop • Lightroom • After Effects • Premiere • Illustrator
 ### 🎨 Lucero Website & Content Creation  
 Mock website design and real photo/video content created for Lucero at Omni.  
 
-<img src="https://via.placeholder.com/800x400?text=Lucero+Website+Preview" width="100%"/>
+<img src="Screenshot (248).png" width="100%"/>
 
 🔗 [View Project](https://agalindo480.github.io/Lucero-git480-final/)
 
@@ -67,7 +67,7 @@ Animated Xbox Game Pass bumper created using After Effects.
 ### 🌐 Personal Portfolio Website  
 Fully coded portfolio website built from scratch to showcase projects and case studies.  
 
-<img src="https://via.placeholder.com/800x400?text=Portfolio+Preview" width="100%"/>
+<img src="Screenshot (249).png" width="100%"/>
 
 🔗 [View Portfolio](https://agalindo480.github.io/Andres-Galindo/)
 
@@ -89,10 +89,14 @@ Notion • Canva • Unity • Unreal Engine • Postman
 ---
 
 ## 📫 Contact
-📧 Email: contactgalindo@gmail.com  
-🔗 GitHub: https://github.com/agalindo480  
-🔗 LinkedIn: (will add link later)  
-🔗 Portfolio: (will add link later)  
+📧 Email: contactgalindo@gmail.com 
+
+🔗 GitHub: https://github.com/agalindo480 
+
+🔗 LinkedIn: www.linkedin.com/in/andres-galindo-2342a0133
+
+🔗 Portfolio: https://agalindo480.github.io/Andres-Galindo/
+
 
 ---
 
